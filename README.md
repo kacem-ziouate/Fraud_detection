@@ -1,15 +1,15 @@
-📌 Project Title
+## Project Title
 
 Credit Card Fraud Detection Using Machine Learning (Imbalanced Data Case Study)
 
-📖 Project Overview
+## Project Overview
 
 Credit card fraud is a rare but high-impact problem where traditional accuracy-based analytics fail due to extreme class imbalance.
 In this project, I developed an end-to-end fraud detection system using machine learning, focusing on recall, precision, and business trade-offs rather than misleading accuracy metrics.
 
 The project simulates a real-world production scenario, ensuring that all evaluations are performed on unseen test data to avoid data leakage.
 
-🎯 Business Problem
+## Business Problem
 
 Fraud transactions represent ~0.17% of all transactions
 
