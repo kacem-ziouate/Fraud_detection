@@ -652,7 +652,7 @@ Model explainability (SHAP)
 
 Concept drift monitoring
 
-👤 Author
+# 👤 Author
 
 Kacem Ziouate
 Aspiring Data Analyst / Data Scientist
