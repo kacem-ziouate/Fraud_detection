@@ -108,16 +108,21 @@ print(data.shape)
 
 ```
 <img width="1201" height="791" alt="Screenshot 2026-01-17 at 17 16 40" src="https://github.com/user-attachments/assets/265c8bf4-e25b-4c69-a45f-0173e7331829" />
+
 ```python
+
 print(data.info())
 
 ```
 <img width="1247" height="712" alt="Screenshot 2026-01-17 at 17 17 11" src="https://github.com/user-attachments/assets/92e73c50-1452-402a-b90e-9808352ff058" />
 
 ```python
+
 print(data.describe())
+
 ```
 <img width="1232" height="795" alt="Screenshot 2026-01-17 at 17 17 28" src="https://github.com/user-attachments/assets/af552c50-f8d3-43fa-b13b-3cae79e52cb5" />
+
 
 ```python
 print(data.isnull().sum())
